@@ -14,5 +14,5 @@ bearer_tokens = {
 }
 
 # DATABASE_URL = "postgres://postgres:george2016@localhost:5432/project"
-DATABASE_URL = "postgres://krchmpzbyejohk:031e05573a01066437772fd6b11f70cbfc8be41553d68b658413ed9d1232d7fe@ec2-52-86-33-50.compute-1.amazonaws.com:5432/d7krnr6i6cta7s"
+DATABASE_URL = "postgres://onbtlflyahqqaa:3f3d727855b66e70b348e7dcc1a3436764752c0c305003b714c85a9904d4f2f6@ec2-34-225-82-212.compute-1.amazonaws.com:5432/d4h8b1ghe32rek"
 DATABASE_TRACK_MODIFICATIONS = False
