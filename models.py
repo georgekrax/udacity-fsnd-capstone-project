@@ -6,7 +6,7 @@ from datetime import date
 from config import DATABASE_URL, DATABASE_TRACK_MODIFICATIONS
 
 
-database_path = os.environ.get('DATABASE_URI', DATABASE_URL)
+database_path = os.environ.get('DATABASE_URL', DATABASE_URL)
 
 db = SQLAlchemy()
 
