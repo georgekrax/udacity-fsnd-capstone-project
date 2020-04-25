@@ -12,6 +12,7 @@ flask-cors = "*"
 psycopg2-binary = "*"
 flask-migrate = "*"
 python-jose = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
