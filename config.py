@@ -14,4 +14,4 @@ bearer_tokens = {
 }
 
 DATABASE_URL = "postgres://postgres:george2016@localhost:5432/project"
-DATABASE_TRACK_MODIFICATIONS = FALSE
+DATABASE_TRACK_MODIFICATIONS = False
